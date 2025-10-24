@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @punisher-da
+- 👋 Hi, I’m Franklin Okafor
 -  I’m a badass freelance software web/app developer using javascript.
 - I’m open to web/application design gigs.
 -  Currently exploring the blockchain space
